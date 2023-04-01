@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/ulinnaja-aldi/">
+  <a href="https://www.linkedin.com/in/ulinnaja-aldi/" target="_blank">
     <img src="https://img.shields.io/badge/aldilla%20ulinnaja-d2b270?style=for-the-badge&logo=Linkedin&logoColor=d2b270&labelColor=1f2430&color=1f2430">
   </a>
-  <a href="https://ulinnaja-aldi.vercel.app/">
+  <a href="https://ulinnaja-aldi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio%20web-d2b270?style=for-the-badge&logo=Codepen&logoColor=d2b270&labelColor=1f2430&color=1f2430">
   </a>
 </p>
