@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/ulinnaja-aldi/">
+    <img src="https://img.shields.io/badge/aldilla%20ulinnaja-d2b270?style=for-the-badge&logo=Linkedin&logoColor=d2b270&labelColor=1f2430&color=1f2430">
+  </a>
+  <a href="https://ulinnaja-aldi.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio%20web-d2b270?style=for-the-badge&logo=Codepen&logoColor=d2b270&labelColor=1f2430&color=1f2430">
+  </a>
+</p>
 
-<!--
-**ulinnajaaldi/ulinnajaaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/ulinnajaaldi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ulinnajaaldi&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
+  </a>
+  <a href="https://github.com/ulinnajaaldi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulinnajaaldi&layout=compact&theme=ayu-mirage&langs_count=6" />
+  </a>
+</p>
