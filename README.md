@@ -11,8 +11,10 @@
   <a href="https://github.com/ulinnajaaldi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ulinnajaaldi&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
   </a>
-  <a href="https://github.com/ulinnajaaldi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulinnajaaldi&layout=compact&theme=ayu-mirage&langs_count=6" />
+</p>
+<p>  
+  <a href="https://wakatime.com/@ulinnajaaldi">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulinnajaaldi&theme=ayu-mirage&custom_title=Ulinnaja%Aldi%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
   </a>
 </p>
 
