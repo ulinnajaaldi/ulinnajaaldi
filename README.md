@@ -1,8 +1,8 @@
 <p>  
-  <a href="https://www.linkedin.com/in/ulinnaja-aldi/" target="_blank">
+  <a href="https://www.linkedin.com/in/ulinnaja-aldi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/aldilla%20ulinnaja-d2b270?style=for-the-badge&logo=Linkedin&logoColor=d2b270&labelColor=1f2430&color=1f2430">
   </a>
-  <a href="https://ulinnaja-aldi.vercel.app/" target="_blank">
+  <a href="https://ulinnaja-aldi.tech/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/portfolio%20web-d2b270?style=for-the-badge&logo=Codepen&logoColor=d2b270&labelColor=1f2430&color=1f2430">
   </a>
 </p>
@@ -13,8 +13,8 @@
   </a>
 </p>
 <p>  
-  <a href="https://wakatime.com/@ulinnajaaldi">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulinnajaaldi&theme=ayu-mirage&custom_title=Ulinnaja%Aldi%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
+  <a href="https://wakatime.com/@ulinnajaaldi" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulinnajaaldi&theme=ayu-mirage&custom_title=Aldilla%20Ulinnaja%20Weekly%20Wakatime%20Stat's&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
   </a>
 </p>
 
