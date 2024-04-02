@@ -14,7 +14,7 @@
 </p>
 <p>  
   <a href="https://wakatime.com/@ulinnajaaldi" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulinnajaaldi&theme=ayu-mirage&custom_title=Aldilla%20Ulinnaja%20Weekly%20Wakatime%20Stat's&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulinnajaaldi&theme=ayu-mirage&custom_title=Aldilla%20Ulinnaja's%20Weekly%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
   </a>
 </p>
 
